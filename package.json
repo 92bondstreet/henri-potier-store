@@ -1,7 +1,7 @@
 {
   "name": "henri-potier-store",
   "version": "1.0.0",
-  "description": "Get INSEE code from zipcode and city name",
+  "description": "Helpers to fetch books and best cart for Henri Potier bookstore",
   "main": "index.js",
   "engines": {
     "node": ">=4"
