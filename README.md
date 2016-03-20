@@ -1,6 +1,6 @@
 # henri-potier-store
 
-[![Build Status](https://travis-ci.org/henri-potier-store/insee.svg?branch=master)](https://travis-ci.org/92bondstreet/henri-potier-store)
+[![Build Status](https://travis-ci.org/92bondstreet/henri-potier-store.svg?branch=master)](https://travis-ci.org/92bondstreet/henri-potier-store)
 
 > Helpers to fetch books and best cart for Henri Potier bookstore
 
